@@ -14,13 +14,23 @@
 * IDE - **Visual Studio**
 ### 2.2. User interface
 
+----------------------------------------------------
+
 ![alt text](Interface/Main_menu.png "Main menu")
+
+----------------------------------------------------
 
 ![alt text](Interface/Options_menu.png "Options menu")
 
+----------------------------------------------------
+
 ![alt text](Interface/Load_screen.png "Load screen")
 
+----------------------------------------------------
+
 ![alt text](Interface/In-game_interface.png "In-game interface")
+
+----------------------------------------------------
 
 ### 2.3. User characteristics
 Targeted audience - any customer with free time and willing to have some entertainment.
