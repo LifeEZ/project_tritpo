@@ -13,13 +13,13 @@
 * Game Engine - **Unity**
 * IDE - **Visual Studio**
 ### 2.2. User interface
-![alt text](Interface/Main menu.png "Main menu")
+![alt text](png/Interface/Main menu.png "Main menu")
 * Main menu
-![alt text](Interface/Options menu.png "Options menu")
+![alt text](png/Interface/Options menu.png "Options menu")
 * Options menu
-![alt text](Interface/Load screen.png "Load screen")
+![alt text](png/Interface/Load screen.png "Load screen")
 * Load menu
-![alt text](Interface/In-game interface.png "In-game interface")
+![alt text](png/Interface/In-game interface.png "In-game interface")
 * In-game interface 
 ### 2.3. User characteristics
 Targeted audience - any customer with free time and willing to have some entertainment.
