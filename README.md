@@ -37,10 +37,16 @@ Targeted audience - any customer with free time and willing to have some enterta
 
 ## 3. System requirements
 ### 3.1. Functional requirements
-* Building system
-* Crafting system
+#### 3.1.1 Building system
+* Building defences
+* Building crafting tables
+#### 3.1.2 Crafting system
+* Crafting tools
+* Crafting weapons
+#### 3.1.3 Procedural generation
 * Procedural generated map
-* Combat system
+* Procedural placed objects
+#### 3.1.4 Procedural generation
 ### 3.2 Non-functional requirements
 #### 3.2.1. Quality attributes
 * Auto-saves
