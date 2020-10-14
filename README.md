@@ -1,7 +1,7 @@
 # Requirements Document
 ## 1. Introduction
 ### 1.1. Purpose 
-"Aptrgangr" it is a free survival game.
+"Aptrgangr" it is a third person free survival game with typical mechanics in this genre. =
 ### 1.2. Analogs
 * [The Long Dark](https://store.steampowered.com/app/305620/The_Long_Dark/)
 * [Rust](https://store.steampowered.com/app/252490/Rust/)
