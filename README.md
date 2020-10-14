@@ -46,7 +46,9 @@ Targeted audience - any customer with free time and willing to have some enterta
 #### 3.1.3 Procedural generation
 * Procedural generated map
 * Procedural placed objects
-#### 3.1.4 Procedural generation
+#### 3.1.4 Combat system
+* Enemies AI
+* Using different weapons
 ### 3.2 Non-functional requirements
 #### 3.2.1. Quality attributes
 * Auto-saves
