@@ -67,7 +67,7 @@ Each test is done manually.
 
 <a name="6"> </a>
 ### 6. Presentation of results
-Test results are presented in [table] (./Results.md).
+Test results are presented in [table](./Results.md).
 
 <a name="7"> </a>
 ### 7. Conclusions
