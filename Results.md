@@ -1,6 +1,6 @@
 Case ID | Case Description | Scenario/Steps | Expected Result | Actual Result | Pass/Fail
 ------- | ---------------- | -------------- | --------------- | ------------- | ---------
-1|Загрузка новой карты|1. Нажатие на кнопку "Start game"<br>2. Показ загрузочного экрана<br>3. (Ре)генерация уровня<br>4. Играбельность персонажа<br>|Корректный геймплей|Корректный геймплей|Pass
-2|Перетаскивание предметов в панеле инструментов|1. Нажатие и удержание левой кнопки мыши<br>2. Изменение ячейки и привязка предмета к курсору<br>3. Изменения расположения предметов в панели|Изменения положения предметов|Изменения положения предметов|Pass
-3|Добыча ресурсов|1. Нажатие кнопки взаимодействия в игре<br>2. Получение ресурсов<br>3.Появление текста о успешном добовление ресурсов<br>4. Проверка инвентаря на изменение значений ячеек с ресурсами<br>|Получение ресурсов|Получение ресурсов|Pass
-4|Корректное отображение описания предметов|1. Наведение мыши на панель инструментов<br>2. Отображение текста с описанием<br>|Корректное отображение описания|Корректное отображение описания|Pass
+1|Loading a new map|1. Pressing the "Start game" button <br>2. Displaying a loading screen <br>3. (Re)generate world<br>4. Character controls<br>|Correct gameplay|Correct gameplay|Pass
+2|Drag and drop items in the toolbar|1. Pressing and holding the left mouse button<br>2. Changing the cell and snapping the item to the cursor<br>3. Changin positions of items in tools panel|Item Positioning Changes|Item Positioning Changes|Pass
+3|Gathering resources |1. Pressing the interaction button in the game<br>2.  Getting resources<br>3.Appearance of the text about successful addition of resources<br>4. Checking inventory for changing resource cell values <br>|Getting Resources|Getting Resources|Pass
+4| Correct display of item descriptions|1.  Hovering the mouse over the toolbar <br>2.  Display text with description<br>|Correct display of description|Correct display of description|Pass
